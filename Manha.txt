@@ -1,0 +1,12 @@
+1 - Acordo, desligo o alarme 
+2 - Abro a porta // Nao tenho tranca
+3 - Desco as escadas
+4 - Escovo os dentes 
+5 - Lavo o rosto 
+6 - Tomo um banho 
+7- Visto a roupa para o trabalho 
+8 - Coloco o capacete 
+9 - Subo na moto 
+10 - Ligo a moto 
+11 - Abro o portao 
+12 - Saio de casa para o trabalho
